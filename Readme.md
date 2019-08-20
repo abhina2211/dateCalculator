@@ -34,11 +34,13 @@
  Some of the enhancement coming in the later version can be:
  
  1. Different Input Source:
-    Dates can be input from following sources:
-      a. CSV File
-      b. RDBMS / NoSQL database
-      c. Another API
+ 
+    Dates input can be from following sources.
+    
+     1. CSV File
+     2. RDBMS / NoSQL database
+     3. Another API
  
  2. GUI Access:
-      a. The program can be enhanced to get the from/to dates from a web page and display the result as an HTML output.
-      b. When the documents are uploaded using CSV (having from and to date as values) the program can calculate the number of days and   display it along with the document upload details.
+      1. The program can be enhanced to get the from/to dates from a web page and display the result as an HTML output.
+      2. When the documents are uploaded using CSV (having from and to date as values) the program can calculate the number of days and   display it along with the document upload details.
