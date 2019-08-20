@@ -2,7 +2,7 @@
  DATE CALCULATOR
  ----------------------------------
  
- his is a command line Nodejs program to calculate number of days between two given dates.
+ This is a command line Nodejs program to calculate number of days between two given dates.
  
  Please use the following command to execute the program
  
