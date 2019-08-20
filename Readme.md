@@ -18,6 +18,23 @@
  Program is capable of handling exclusion of partial days from the calculation.
  
  -------------------------------------
+ TEST CASE RESULT
+ -------------------------------------
+ 
+Following test case were used to verify the program:
+
+ 1. 02/06/1983 - 22/06/1983 => 19 days
+ 
+ 2. 04/07/1984 - 25/12/1984 => 173 days
+ 
+ 3. 03/01/1989 - 03/08/1983 => 1979 days
+ 
+Result of Test case execution can be found in the repo under following filenames:
+ 1. dateCalculatorTestREsult1.png (Test case 1 & Test case 2)
+ 
+ 2. dateCalculatorTestREsult2.png (Test case 3)
+ 
+ -------------------------------------
  OTHER APPLICATIONS OF THE PROGRAM
  -------------------------------------
  
